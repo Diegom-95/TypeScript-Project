@@ -18,10 +18,16 @@ Offrire soluzioni di micromobilità flessibili, convenienti ed ecologiche per ri
 - **IUtente**: Modella gli utenti con informazioni personali e il metodo `prenotaMezzo`.
 - **ICitta**: Gestisce le città servite, con un elenco di mezzi disponibili e il metodo `aggiungiMezzo`.
 
+## :zap:  Codice
+Puoi trovare il codice a questo link:
+https://codepen.io/Diego-Maggioni/pen/gbOQGaK
+
 ## :e-mail: Contact Me
-Any questions? Send me an e-mail here: diegomaggioni95@gmail.com
+Qualche domanda? Scrivimi qui: diegomaggioni95@gmail.com
 
 
 ## :black_nib: Authors
 
 * **Diego Maggioni** - *start2Impact student* - [Diego Maggioni](https://github.com/Diegom-95)
+
+https://codepen.io/Diego-Maggioni/pen/gbOQGaK
