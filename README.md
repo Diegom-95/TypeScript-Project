@@ -49,6 +49,14 @@ Esplora il codice completo qui:
 
 ---
 
+## 📦 Installazione
+1. Clona il repository:
+   ```bash
+   git clone https://github.com/Diegom-95/moove-micromobility.git
+   cd moove-micromobility
+
+---
+
 ## 📧 Contattami
 Hai domande o suggerimenti? Scrivimi!  
 📩 **Email**: [diegomaggioni95@gmail.com](mailto:diegomaggioni95@gmail.com)
