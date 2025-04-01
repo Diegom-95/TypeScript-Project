@@ -71,5 +71,5 @@ Hai domande o suggerimenti? Scrivimi!
 ---
 
 <p align="center">
-  <em>Progetto realizzato con passione per un futuro più verde e connesso! 🌱</em>
+  <em>Progetto realizzato per Start2Impact </em>
 </p>
